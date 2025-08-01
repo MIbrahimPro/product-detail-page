@@ -19,6 +19,16 @@ function Home() {
                     View After Products
                 </Link>
             </div>
+
+            {/* Credit Message */}
+            <footer className="mt-12 text-center text-gray-500 text-sm">
+                <p>
+                    A big thank you to the kind person, Ivan Dnistrian, for providing this amazing 3D model!
+                </p>
+                <p>
+                    "<a href="https://skfb.ly/6wKMo" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-700">Headphones</a>" by Ivan Dnistrian is licensed under <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-700">Creative Commons Attribution</a>.
+                </p>
+            </footer>
         </div>
     );
 }

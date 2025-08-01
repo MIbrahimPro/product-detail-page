@@ -58,6 +58,10 @@ npm start
 ```
 Browser should open up automatically but you can visit it manually by typing http://localhost:3000/ in browser.
 
+## Credits
+I am not a 3d model artist, I am a Web developer, the credit to the 3d model goes to the following kind person.
+
+"Headphones" (https://skfb.ly/6wKMo) by Ivan Dnistrian is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 
 ## 🎨 Contribution or Contact Me
