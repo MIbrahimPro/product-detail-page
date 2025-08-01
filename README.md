@@ -69,9 +69,9 @@ Contact me using the details below if you need any help at any step, Or if you n
 Feel free to show your skills on my repo by forking it and creating a pull request, You may start an issue in issue panel for any issue you incounter, You can also contact me using details below for any reason, even for no reason 😉
 
 ### **Contact info**
-    * Phone number: +92 319 7877750 (I prefer whatsaap message over calls)
-    * Email: mibrahimpro.1@gmail.com
-    * Portfolio: [m-ibrahimdev.netlify.app](https://m-ibrahimdev.netlify.app/)
+* Phone number: +92 319 7877750 (I prefer whatsaap message over calls)
+* Email: mibrahimpro.1@gmail.com
+* Portfolio: [m-ibrahimdev.netlify.app](https://m-ibrahimdev.netlify.app/)
 
 
 Enjoy your life to the fullest, Never let your future self blame you for wasting time and not being part of the moment and not enjoying it .....
