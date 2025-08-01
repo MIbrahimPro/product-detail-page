@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# Product Detail page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## OverView
 
-## Available Scripts
+This is just a practice demo page, It shows a comparison between outdated static pages and a modern 3d immersive design of a product details page, both pages shows the same features with the modern one offereing more space and being minimal. 
 
-In the project directory, you can run:
+### Important Note: 
+This is just a demo, things are not perfect and not responsive either, Which doesnt imply it cannot be, there is also more room for improvement and details to focus. 
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Insight 
+here is a view of the first home page you will incounter, 
+you can use the buttons to naviagate to the after and before pages, 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* Home Page 
+![Home Page](.images/home.png)
+* Before Page 
+![Before Page](.images/before.png)
+* After Page 
+![After Page](.images/after.png)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## How to set up and run it
 
-### `npm run build`
+These steps are for windows and if you are using Mac or linux, I suppose you are smart enough to copy the steps to chatGpt or whatever AI to get relevent steps for your operating system. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Prerequesties
+Ensure you have the following Installed:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ * **Node:** Node.js Official Website (LTS version recommended)
+    
+    **Verify Installation:**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    ```bash
+    $ node -v
+    $ npm -v
+    ```
 
-### `npm run eject`
+### Step 1:
+Click on the green code button on the top of this page and click download as Zip.Once the download is complete, Extract the zip file.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Step 2:
+* Either open the extracted folder in Vs code and run the following in terminal 
+    ```bash
+    npm i
+    ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Or open powershell in the extracted folder and run the following command
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+    ```bash
+    npm i 
+    ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Step 3:
+Once the installation completes, run the following command
+```bash
+npm start
+```
+Browser should open up automatically but you can visit it manually by typing http://localhost:3000/ in browser.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🎨 Contribution or Contact Me
 
-### Code Splitting
+* **I will be happy if you do** 
+Contact me using the details below if you need any help at any step, Or if you need any service from my skills on your project or your site, I am Available for work
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+*  **For brotherly Developers (and sisterly too)** 
+Feel free to show your skills on my repo by forking it and creating a pull request, You may start an issue in issue panel for any issue you incounter, You can also contact me using details below for any reason, even for no reason 😉
 
-### Analyzing the Bundle Size
+### **Contact info**
+    * Phone number: +92 319 7877750 (I prefer whatsaap message over calls)
+    * Email: mibrahimpro.1@gmail.com
+    * Portfolio: [m-ibrahimdev.netlify.app](https://m-ibrahimdev.netlify.app/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Enjoy your life to the fullest, Never let your future self blame you for wasting time and not being part of the moment and not enjoying it .....
